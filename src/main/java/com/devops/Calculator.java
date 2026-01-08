@@ -1,6 +1,6 @@
-// src/main/java/com/devops/Calculator.java 
+// src/main/java/com/devops/AdvancedCalculator.java 
 package main.java.com.devops; 
-public class Calculator { 
+public class AdvancedCalculator { 
     public int add(int a, int b) { 
         return a + b; 
     }
